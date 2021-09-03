@@ -6,4 +6,4 @@ We first calculate the basic stats which are:
  3. Average - Runs Scored / Total No. of Dismissals
 
 This gives us a statistical analysis but for a fair analysis we see how they perform against others batsmen/bowler.
-For this we plot a scatter graph of Runs Scored vs SR and divide them in 4 quardrants and analyse
+For this we plot a scatter graph of Runs Scored vs SR and divide them in 4 quardrants and analyse.
